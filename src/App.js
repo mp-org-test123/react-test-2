@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello Friends! This site is used for testing...
+          This is the test to check if pinning is wokring corretly on eust.
         </p>
         <a
           className="App-link"
